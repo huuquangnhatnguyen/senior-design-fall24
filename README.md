@@ -7,7 +7,7 @@ My contacts:
 Email: nguye2hq@mail.uc.edu
 
 Recent Co-op Work Experience
-TMA Solutions | Software Engineer Intern	March – July 2024
+TMA Solutions | Software Engineer Intern	March – July 2024 \
 Skills: 
 · Teamwork skills. (Agile) 
 · Knowledge of Web Application framework. 
