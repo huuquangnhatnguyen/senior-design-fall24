@@ -1,7 +1,7 @@
 
 # Professional Biography 
 
-My name is Huu Quang Nhat Nguyen.
+My name is Huu Quang Nhat Nguyen. You can call me either Huu or Nat for short.
 
 My contacts: 
 Email: nguye2hq@mail.uc.edu
@@ -26,4 +26,4 @@ TMA Solutions | Software Engineer Intern	March – July 2024
 
 Project Sought: 
 - I want to develop a web application from scratch (Full Stack). 
-- My interested fields: re-tail market; time pieces recommendation; shoes comparison; parenting and newborn tracking application. \
+- My interested fields: re-tail market; time pieces recommendation; shoes comparison; parenting and newborn tracking application. 
