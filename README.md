@@ -12,15 +12,15 @@ TMA Solutions | Software Engineer Intern	March – July 2024
 - Enhanced system reliability and performance through effective debugging and troubleshooting. 
 - Developed and deployed a new shift management feature that automates worker scheduling processes, optimizing operational efficiency for client businesses. 
   
-### Skills: \
-· Teamwork skills. (Agile) \
-· Knowledge of Web Application framework. \
+### Skills: 
+- Teamwork skills. (Agile) \
+- Knowledge of Web Application framework. \
 	- ReactJS, Typescript language. \
 	- Application structure. \
 	- State management: Redux.  \
 	- UI programming. \
 	- Working with Restful API, Postman, GG Map, background fetch data,… \
-· Knowledge of other technology: \
+- Knowledge of other technology: \
 	- Design with Figma. \
 	- Working with management project tools. 
 
